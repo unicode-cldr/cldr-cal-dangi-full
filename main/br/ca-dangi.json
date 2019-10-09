@@ -3,8 +3,7 @@
     "br": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14886 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "br"
       },
@@ -1150,30 +1149,30 @@
                   "M": "MM–MM"
                 },
                 "Md": {
-                  "d": "MM-dd – MM-dd",
-                  "M": "MM-dd – MM-dd"
+                  "d": "dd/MM – dd/MM",
+                  "M": "dd/MM – dd/MM"
                 },
                 "MEd": {
-                  "d": "MM-dd, E – MM-dd, E",
-                  "M": "MM-dd, E – MM-dd, E"
+                  "d": "E dd/MM – E dd/MM",
+                  "M": "E dd/MM – E dd/MM"
                 },
                 "MMM": {
                   "M": "LLL–LLL"
                 },
                 "MMMd": {
-                  "d": "MMM d–d",
-                  "M": "MMM d – MMM d"
+                  "d": "d–d MMM",
+                  "M": "d MMM – d MMM"
                 },
                 "MMMEd": {
-                  "d": "MMM d, E – MMM d, E",
-                  "M": "MMM d, E – MMM d, E"
+                  "d": "E d MMM – E d MMM",
+                  "M": "E d MMM – E d MMM"
                 },
                 "y": {
                   "y": "U–U"
                 },
                 "yM": {
-                  "M": "y-MM – y-MM",
-                  "y": "y-MM – y-MM"
+                  "M": "MM/y – MM/y",
+                  "y": "MM/y – MM/y"
                 },
                 "yMd": {
                   "d": "y-MM-dd – y-MM-dd",
