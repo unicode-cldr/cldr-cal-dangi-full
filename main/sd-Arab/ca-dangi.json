@@ -1,11 +1,12 @@
 {
   "main": {
-    "vo": {
+    "sd-Arab": {
       "identity": {
         "version": {
-          "_cldrVersion": "37"
+          "_cldrVersion": "38"
         },
-        "language": "vo"
+        "language": "sd",
+        "script": "Arab"
       },
       "dates": {
         "calendars": {
@@ -132,78 +133,78 @@
             "days": {
               "format": {
                 "abbreviated": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "آچر",
+                  "mon": "سومر",
+                  "tue": "اڱارو",
+                  "wed": "اربع",
+                  "thu": "خميس",
+                  "fri": "جمعو",
+                  "sat": "ڇنڇر"
                 },
                 "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "W",
-                  "thu": "T",
-                  "fri": "F",
-                  "sat": "S"
+                  "sun": "آچر",
+                  "mon": "سو",
+                  "tue": "اڱارو",
+                  "wed": "اربع",
+                  "thu": "خم",
+                  "fri": "جمعو",
+                  "sat": "ڇنڇر"
                 },
                 "short": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "آچر",
+                  "mon": "سومر",
+                  "tue": "اڱارو",
+                  "wed": "اربع",
+                  "thu": "خميس",
+                  "fri": "جمعو",
+                  "sat": "ڇنڇر"
                 },
                 "wide": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "آچر",
+                  "mon": "سومر",
+                  "tue": "اڱارو",
+                  "wed": "اربع",
+                  "thu": "خميس",
+                  "fri": "جمعو",
+                  "sat": "ڇنڇر"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "آچر",
+                  "mon": "سومر",
+                  "tue": "اڱارو",
+                  "wed": "اربع",
+                  "thu": "خميس",
+                  "fri": "جمعو",
+                  "sat": "ڇنڇر"
                 },
                 "narrow": {
-                  "sun": "S",
-                  "mon": "M",
-                  "tue": "T",
-                  "wed": "W",
-                  "thu": "T",
-                  "fri": "F",
-                  "sat": "S"
+                  "sun": "آچر",
+                  "mon": "سو",
+                  "tue": "اڱارو",
+                  "wed": "اربع",
+                  "thu": "خم",
+                  "fri": "جمعو",
+                  "sat": "ڇنڇر"
                 },
                 "short": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "آچر",
+                  "mon": "سومر",
+                  "tue": "اڱارو",
+                  "wed": "اربع",
+                  "thu": "خميس",
+                  "fri": "جمعو",
+                  "sat": "ڇنڇر"
                 },
                 "wide": {
-                  "sun": "Sun",
-                  "mon": "Mon",
-                  "tue": "Tue",
-                  "wed": "Wed",
-                  "thu": "Thu",
-                  "fri": "Fri",
-                  "sat": "Sat"
+                  "sun": "آچر",
+                  "mon": "سومر",
+                  "tue": "اڱارو",
+                  "wed": "اربع",
+                  "thu": "خميس",
+                  "fri": "جمعو",
+                  "sat": "ڇنڇر"
                 }
               }
             },
@@ -213,7 +214,7 @@
                   "1": "Q1",
                   "2": "Q2",
                   "3": "Q3",
-                  "4": "Q4"
+                  "4": "Q5"
                 },
                 "narrow": {
                   "1": "1",
@@ -222,10 +223,10 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "پهرين ٽي ماهي",
+                  "2": "ٻين ٽي ماهي",
+                  "3": "ٽين ٽي ماهي",
+                  "4": "چوٿين ٽي ماهي"
                 }
               },
               "stand-alone": {
@@ -242,40 +243,40 @@
                   "4": "4"
                 },
                 "wide": {
-                  "1": "Q1",
-                  "2": "Q2",
-                  "3": "Q3",
-                  "4": "Q4"
+                  "1": "پهرين ٽي ماهي",
+                  "2": "ٻين ٽي ماهي",
+                  "3": "ٽين ٽي ماهي",
+                  "4": "چوٿين ٽي ماهي"
                 }
               }
             },
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "صبح، منجهند",
+                  "pm": "شام، منجهند"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "صبح، منجهند",
+                  "pm": "منجهند، شام"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "صبح، منجهند",
+                  "pm": "منجهند، شام"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "صبح، منجهند",
+                  "pm": "منجهند، شام"
                 },
                 "narrow": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "صبح، منجهند",
+                  "pm": "منجهند، شام"
                 },
                 "wide": {
-                  "am": "AM",
-                  "pm": "PM"
+                  "am": "صبح، منجهند",
+                  "pm": "منجهند، شام"
                 }
               }
             },
@@ -1032,10 +1033,10 @@
               "short": "r-MM-dd"
             },
             "timeFormats": {
-              "full": "HH:mm:ss zzzz",
-              "long": "HH:mm:ss z",
-              "medium": "HH:mm:ss",
-              "short": "HH:mm"
+              "full": "h:mm:ss a zzzz",
+              "long": "h:mm:ss a z",
+              "medium": "h:mm:ss a",
+              "short": "h:mm a"
             },
             "dateTimeFormats": {
               "full": "{1} {0}",
